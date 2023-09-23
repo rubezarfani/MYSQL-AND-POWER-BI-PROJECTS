@@ -1,0 +1,15 @@
+Project for Financial Analytics
+
+Using information from codebasics.io, this repository contains SQL queries and financial analytics methods.
+by using the data set from codebasics.io  to explore financial data using SQL queries and stored procedures.
+
+Queries and functions used:
+
+1. Fiscal Year Function: Determine fiscal years for specified dates on a calendar.
+
+2. Obtain Sales Information: Obtain sales information for "Croma India" in 2021.
+
+3.Monthly Product Transactions: Examine the "Croma India" monthly product transactions in 2021.
+
+4.Complete Sales Amount: Produce monthly sales reports for "Croma India."
+	Calculate the monthly gross sales for any client using step number five of the procedure.
