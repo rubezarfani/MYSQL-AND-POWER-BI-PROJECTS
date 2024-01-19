@@ -1,1 +1,1 @@
-# data-analysis
+MYSQL AND POWER BI PROJECTS
